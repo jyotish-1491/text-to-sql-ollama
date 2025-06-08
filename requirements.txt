@@ -1,0 +1,2 @@
+streamlit
+ollama  # If you're calling the Python Ollama API (currently you're using subprocess, so this isn't required)
